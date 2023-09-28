@@ -1,16 +1,29 @@
-### Hi there 👋
+<div align="center">
 
-<!--
-**rutopio/rutopio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://cultofthepartyparrot.com/parrots/hd/congaparrot.gif" style="width:2em"><img src="https://cultofthepartyparrot.com/parrots/hd/congaparrot.gif" style="width:2em"><img src="https://cultofthepartyparrot.com/parrots/hd/congaparrot.gif" style="width:2em"><img src="https://cultofthepartyparrot.com/parrots/hd/congaparrot.gif" style="width:2em"><img src="https://cultofthepartyparrot.com/parrots/hd/congaparrot.gif" style="width:2em"><img src="https://cultofthepartyparrot.com/parrots/hd/congaparrot.gif" style="width:2em"><img src="https://cultofthepartyparrot.com/parrots/hd/congaparrot.gif" style="width:2em"><img src="https://cultofthepartyparrot.com/parrots/hd/congaparrot.gif" style="width:2em"><img src="https://cultofthepartyparrot.com/parrots/hd/congaparrot.gif" style="width:2em"><img src="https://cultofthepartyparrot.com/parrots/hd/congaparrot.gif" style="width:2em"><img src="https://cultofthepartyparrot.com/parrots/hd/congaparrot.gif" style="width:2em"><img src="https://cultofthepartyparrot.com/parrots/hd/congaparrot.gif" style="width:2em"><img src="https://cultofthepartyparrot.com/parrots/hd/congaparrot.gif" style="width:2em"><img src="https://cultofthepartyparrot.com/parrots/hd/congaparrot.gif" style="width:2em">
 
-Here are some ideas to get you started:
+<img src="https://cultofthepartyparrot.com/parrots/hd/portalorangeparrot.gif" style="width:2em"><b>　　Ｈｉ．　ｔｈｉｓ　ｉｓ　ＣｈｉｎｇＲｕ．　　</b><img src="https://cultofthepartyparrot.com/parrots/hd/portalblueparrot.gif" style="width:2em">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://cultofthepartyparrot.com/parrots/hd/reversecongaparrot.gif" style="width:2em"><img src="https://cultofthepartyparrot.com/parrots/hd/reversecongaparrot.gif" style="width:2em"><img src="https://cultofthepartyparrot.com/parrots/hd/reversecongaparrot.gif" style="width:2em"><img src="https://cultofthepartyparrot.com/parrots/hd/reversecongaparrot.gif" style="width:2em"><img src="https://cultofthepartyparrot.com/parrots/hd/reversecongaparrot.gif" style="width:2em"><img src="https://cultofthepartyparrot.com/parrots/hd/reversecongaparrot.gif" style="width:2em"><img src="https://cultofthepartyparrot.com/parrots/hd/reversecongaparrot.gif" style="width:2em"><img src="https://cultofthepartyparrot.com/parrots/hd/reversecongaparrot.gif" style="width:2em"><img src="https://cultofthepartyparrot.com/parrots/hd/reversecongaparrot.gif" style="width:2em"><img src="https://cultofthepartyparrot.com/parrots/hd/reversecongaparrot.gif" style="width:2em"><img src="https://cultofthepartyparrot.com/parrots/hd/reversecongaparrot.gif" style="width:2em"><img src="https://cultofthepartyparrot.com/parrots/hd/reversecongaparrot.gif" style="width:2em"><img src="https://cultofthepartyparrot.com/parrots/hd/reversecongaparrot.gif" style="width:2em"><img src="https://cultofthepartyparrot.com/parrots/hd/reversecongaparrot.gif" style="width:2em">
+	
+
+👉　Typeface & Software Engineer　👈
+
+📮　contact [AT] chingru.me　📮
+
+🧋　If you like my projects, you can [Buy Me a Bubble Tea!](https://www.buymeacoffee.com/chingru)　🧋
+
+
+[![ChatGPT](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/ching-ru/) 
+[![ChatGPT](https://img.shields.io/badge/resume-DB4D6D?style=for-the-badge)](https://hoching.ru/)
+[![ChatGPT](https://img.shields.io/badge/blog-376B6D?style=for-the-badge)](https://chingru.me/)
+
+</div>
+
+
+
+
+
+
+
+
