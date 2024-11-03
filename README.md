@@ -14,9 +14,9 @@
 🧋　If you like my projects, you can [Buy Me a Bubble Tea!](https://www.buymeacoffee.com/chingru)　🧋
 
 
-[![ChatGPT](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/ching-ru/) 
-[![ChatGPT](https://img.shields.io/badge/resume-DB4D6D?style=for-the-badge)](https://hoching.ru/)
-[![ChatGPT](https://img.shields.io/badge/blog-376B6D?style=for-the-badge)](https://chingru.me/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/ching-ru/) 
+[![Resume](https://img.shields.io/badge/resume-DB4D6D?style=for-the-badge)](https://ho.chingru.me/)
+[![Blog](https://img.shields.io/badge/blog-376B6D?style=for-the-badge)](https://chingru.me/)
 
 </div>
 
